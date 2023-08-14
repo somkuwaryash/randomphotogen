@@ -2,6 +2,10 @@
 
 A responsive iOS application crafted in Swift and UIKit, which seamlessly fetches and showcases random photos from Unsplash with a touch of dynamic background colors.
 
+## Screenshots
+![image1](images/image1.png)
+![image2](images/image2.png)
+
 ## Key Features
 
 - **Instant Random Image**: On app launch, a random image (300x300) from Unsplash graces the screen, positioning itself at the center for an eye-catching view.
